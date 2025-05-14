@@ -1,2 +1,2 @@
 # Puzzle-Project
-This code solves a colorless jigsaw project.
+This code solves a colorless jigsaw puzzle.
